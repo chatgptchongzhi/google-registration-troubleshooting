@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatgptchongzhi.github.io/google-registration-troubleshooting/sitemap.xml
